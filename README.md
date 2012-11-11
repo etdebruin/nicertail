@@ -9,3 +9,8 @@ Install
 =======
 
 Copy the script to /usr/local/bin or any other executable path.
+
+Usage
+=====
+
+`nicertail filename`
